@@ -1,0 +1,7 @@
+{
+  "name": "client-mobile-radio-cristy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
